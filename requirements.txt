@@ -1,3 +1,5 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+
 numpy
 opencv-python
 matplotlib
@@ -5,3 +7,7 @@ torch
 torchvision
 grad-cam
 shap
+scikit-learn
+pandas
+pillow
+tqdm
