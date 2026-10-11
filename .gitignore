@@ -220,5 +220,6 @@ __marimo__/
 .streamlit/secrets.toml
 
 data/
-
-chest_xray/
+full_data/
+*.pth
+models/
